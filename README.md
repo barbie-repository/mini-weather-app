@@ -19,15 +19,18 @@ Built with **HTML, CSS, and JavaScript**.
 
 <p align="center">
   <img src="https://github.com/barbie-repository/mini-weather-app/blob/fae9b7b34ddd356fd0d1a920bd96e4b5b60ae7af/Screenshot%202025-09-20%20162926.png" width="400" alt="App Screenshot"/>
+</p>
+
 
 ## For spelling mistake 
+<p align="center">
+<img src="Screenshot 2025-09-20 163016.png" width="400" alt="App Screenshot">
+</p>
 
 
-
-
-🖼 What It Looks Like
-
-  <img src="Screenshot 2025-09-20 163039.png">
+## 🖼 What It Looks Like
+<p align="center">
+  <img src="Screenshot 2025-09-20 163039.png" width="400" alt="App Screenshot">
 </p>
 
 
