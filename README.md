@@ -18,7 +18,7 @@ Built with **HTML, CSS, and JavaScript**.
 🔍 Search for any city to get live weather updates.  
 
 <p align="center">
-  <img src="https://github.com/barbie-repository/mini-weather-app/blob/fae9b7b34ddd356fd0d1a920bd96e4b5b60ae7af/Screenshot%202025-09-20%20162926.png" width="600" alt="App Screenshot"/>
+  <img src="https://github.com/barbie-repository/mini-weather-app/blob/fae9b7b34ddd356fd0d1a920bd96e4b5b60ae7af/Screenshot%202025-09-20%20162926.png" width="400" alt="App Screenshot"/>
 </p>
 
 ## For spelling mistake 
